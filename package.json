@@ -1,0 +1,16 @@
+{
+  "name": "calculat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "author": "me.barak.alexander",
+  "license": "ISC",
+  "window": {
+    "width": 500,
+    "height": 700,
+    "icon": "img/icon.png",
+    "toolbar": false,
+    "frame": true,
+    "resizable": false
+  }
+}
